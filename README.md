@@ -2,3 +2,5 @@ Trying to add a OV2640 2mp camera module to a DFRobot Shop Rover V2 for a little
 And to figure out this posting and to get some help with the code I have tried to run.
 
 editing to learn ore on how to post and get help.
+
+and it seems that the thing cant figure out what I'm doing. lol
